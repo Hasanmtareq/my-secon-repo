@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+section{
+    display:flex
+}
+.head{
+    width: 50%;
+}
+.bio{
+    padding-left: 5%;
+}
+.head img{
+    width: 80%;
+    margin-top: 5%;
+}
